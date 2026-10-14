@@ -1,0 +1,6 @@
+{
+  "name": "AI Meeting Summarizer",
+  "description": "Smart AI meeting assistant that transcribes meeting audio, extracts key discussion points, summarizes outcomes, and generates actionable task lists.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
